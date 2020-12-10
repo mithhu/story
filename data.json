@@ -1,0 +1,317 @@
+
+    [{
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/bae40c07867c-image-8.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "Munna",
+      "profile_pic_url": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/66d0c0118f6e-image.jpg",
+      "first_name": "Tanvir Hossen",
+      "follower_count": 0,
+      "email": null,
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/574209d6ca70-image.jpg",
+          "restaurant_details": {
+            "address": "Victoria College Road, Comilla, Bangladesh",
+            "name": "Q-Bistro, Victoria College Road, Cumilla",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/79e934bc983b-84740349_492167401734202_5214604632562597888_o.jpg",
+            "location": "23.4593951,91.1827311",
+            "id": 1548,
+            "slug": "qbistro,-victoria-college-road,-comilla-osvvp"
+          },
+          "description": "Item: Juicy Burger, Price: 90/=  Rating: 6/10",
+          "created_at": "2020-12-09T18:49:23.861780+00:00",
+          "expired_at": "2020-12-10T18:49:23.860517",
+          "id": 252
+        },
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/73f7b7226433-image.jpg",
+          "restaurant_details": {
+            "address": "Jhautola, Cumilla, Bangladesh",
+            "name": "Royal Dine Restaurant Jhawtola, Cumilla",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/c3a106d7faf8-royal-dine-logo.jpg",
+            "location": "23.464645,91.1758003",
+            "id": 1546,
+            "slug": "royal-dine-restaurant-jhawtola,-cumilla-ejenh"
+          },
+          "description": "Restaurant: Royel Dine\nItem: Royel Kacchi\nPrice: 230+ 40(Delivery)\nRating: 00/10 🤮\n\nReview: \nএক কথায় কারো কাছে যদি নষ্ট করার জন্যে আড়াইশ টাকা থাকে আর নষ্ট করার জায়গা না পান তাহলে রয়েল ডাইনের এই কাচ্ছি টা অর্ডার করতে পারেন😑!  এক চামচ খাওয়ার পর ফেলে দিবেন কারন কোন গরিবকে দিতেও কষ্ট লাগবে কারন এই কাচ্ছি খাওয়ানো মানে অত্যাচার করা. \n\nকি খাইলাম ভাই কাচ্ছি খাইছি নাকি শুকনা ভাত নিজেই বুঝি নাই! খাসির মাংস দিছে ২ পিস লোহার মত শক্ত!\n\nএর থেকে ভাই কান্দিরপাড়ের হাজি বিরিয়ানির কাচ্ছি হাজার গুন ভালো মাংস ১পিস এইরকম ২ইটার সমান 😑\n\nএভাবে প্রতারিত হবো কল্পনাও করি নাই!",
+          "created_at": "2020-12-10T08:12:20.054424+00:00",
+          "expired_at": "2020-12-11T08:12:20.052664",
+          "id": 257
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/1d10e15e3bd6-4.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "Chowdhury",
+      "profile_pic_url": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/6103f8a9b489-1580399964072.png",
+      "first_name": "Abrar Hasin",
+      "follower_count": 0,
+      "email": "chyswapnil1@gmail.com",
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/e6718e5c661e-image.jpg",
+          "restaurant_details": {
+            "address": "Nayasarak Rd, Sylhet, Bangladesh",
+            "name": "Kabab Karigor Nayasarak, Sylhet",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/7743a42ff283-202.png",
+            "location": "24.899013783204,91.874841280648",
+            "id": 468,
+            "slug": "evaly-food-kabab-karigor-nayasarak-sylhet"
+          },
+          "description": "very nice kacchi.kabab karigor ✌️",
+          "created_at": "2020-12-09T20:47:39.158058+00:00",
+          "expired_at": "2020-12-10T20:47:39.156901",
+          "id": 253
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/bae1f3e97f53-5.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "Farazi",
+      "profile_pic_url": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/f29647be0df5-image.jpg",
+      "first_name": "MD Ibrahim",
+      "follower_count": 0,
+      "email": "ibrahimfarazi44@gmail.com",
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/66ffd4175727-image.jpg",
+          "restaurant_details": {
+            "address": "22/18Barobag, 60 fit Leguna stand, Mirpur-2 Rd, Dhaka 1216, Bangladesh",
+            "name": "The Berlin Cafe Mirpur-2, Dhaka",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/48e6981b56e4-logo.jpeg",
+            "location": "23.8039664,90.3652917",
+            "id": 1397,
+            "slug": "the-berlin-cafe-mirpur-2,-dhaka-hdwpx"
+          },
+          "description": "Food Was Good...",
+          "created_at": "2020-12-09T12:17:25.137294+00:00",
+          "expired_at": "2020-12-10T12:17:25.136127",
+          "id": 248
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/ad1cf028a771-3.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "khan",
+      "profile_pic_url": null,
+      "first_name": "saikat",
+      "follower_count": 0,
+      "email": "saikatkhan200@gmail.com",
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/6ca880e8a9e5-image.jpg",
+          "restaurant_details": {
+            "address": "Malibagh Chowdhury Para Road, Malibagh Chowdhury Para Rd, Dhaka, Bangladesh",
+            "name": "Buzztime Cafe Malibag, Dhaka",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/4bfd941ef2e3-85121026_118069889748482_6724129008239247360_o.jpg",
+            "location": "23.752308,90.4157913",
+            "id": 1064,
+            "slug": "buzztime-cafe-malibag,-dhaka-ltcbe"
+          },
+          "description": "worst Burger Buzztime cafe Malibagh ",
+          "created_at": "2020-12-09T13:51:26.632563+00:00",
+          "expired_at": "2020-12-10T13:51:26.631341",
+          "id": 250
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/bae1f3e97f53-5.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 1,
+      "last_name": "akter",
+      "profile_pic_url": "",
+      "first_name": "khadiza",
+      "follower_count": 0,
+      "email": null,
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/787a30495425-image.jpg",
+          "restaurant_details": {
+            "address": "Mirpur Rd, Dhaka 1216, Bangladesh",
+            "name": "Sultan's Dine Mirpur, Dhaka",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/bce36b56f8c0-logo.jpg",
+            "location": "23.806480616794,90.365738135411",
+            "id": 816,
+            "slug": "sultan's-dine-mirpur,-dhaka-bslmq"
+          },
+          "description": "onek testy ",
+          "created_at": "2020-12-10T01:56:54.825022+00:00",
+          "expired_at": "2020-12-11T01:56:54.823865",
+          "id": 254
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/e7f6877ff95c-image-7.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "Billah",
+      "profile_pic_url": null,
+      "first_name": "Moftachim",
+      "follower_count": 0,
+      "email": "moftachimbillah@gmail.com",
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/852db689b0cb-image.jpg",
+          "restaurant_details": {
+            "address": "Mithai - Uttara 11, House No, 24 Sonargaon Janapath, Dhaka 1230, Bangladesh",
+            "name": "Mithai Uttara-11, Dhaka",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/f374e82315bb-whatsapp-image-2020-11-17-at-63851-pm.jpeg",
+            "location": "23.8745318,90.3915958",
+            "id": 1704,
+            "slug": "mithai-uttara-11,-dhaka-twfzl"
+          },
+          "description": "From Mithai, Uttara",
+          "created_at": "2020-12-10T09:02:15.577388+00:00",
+          "expired_at": "2020-12-11T09:02:15.576345",
+          "id": 258
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/ad1cf028a771-3.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "Raihan",
+      "profile_pic_url": "null",
+      "first_name": "Zahir",
+      "follower_count": 0,
+      "email": "raihanzahir58@gmail.com",
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/6bf800b0bd7d-image.jpg",
+          "restaurant_details": {
+            "address": "House : 28, Road : 2, Sector  : 3, Uttara",
+            "name": "Pizza Gang Uttara, Dhaka",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/8189a4e60fd1-pizza-gang-j.jpg",
+            "location": "23.8639548,90.3990821",
+            "id": 1254,
+            "slug": "pizza-gang-uttara,-dhaka-phphb"
+          },
+          "description": "70% offer 🥰🥰🥰🥰🥰🥰",
+          "created_at": "2020-12-10T07:19:21.789124+00:00",
+          "expired_at": "2020-12-11T07:19:21.787931",
+          "id": 255
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/ad1cf028a771-3.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "Hatirpool",
+      "profile_pic_url": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/7904d4d7fb44-image.jpg",
+      "first_name": "Grand Lazeez",
+      "follower_count": 2,
+      "email": null,
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/841b86e66df2-image.jpg",
+          "restaurant_details": {
+            "address": "Eastern Plaza Shopping Complex, Eastern plaza, Hatirpoo1, Dhaka-111, ঢাকা 1205, Bangladesh",
+            "name": "Grand Lazeez Hatirpool, Dhaka",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/e63efc4284e2-logo.jpg",
+            "location": "23.7437537,90.3915476",
+            "id": 2166,
+            "slug": "Grand-Lazeez-Hatirpool-Dhaka-gfdoq"
+          },
+          "description": "Delicious Food ",
+          "created_at": "2020-12-10T10:03:22.280820+00:00",
+          "expired_at": "2020-12-11T10:03:22.279547",
+          "id": 259
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/4aa2210b49fb-5.png",
+      "address": null,
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "begum",
+      "profile_pic_url": null,
+      "first_name": "farjana ",
+      "follower_count": 0,
+      "email": null,
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/f13f6426d91a-image.jpg",
+          "restaurant_details": {
+            "address": "KA-95 South  Badda Rd, Dhaka 1212",
+            "name": "Food Club Cafe Hatirjheel  , Dhaka",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/abedb56e9791-whatsapp-image-2020-09-14-at-70726-pm.jpeg",
+            "location": "23.774628231784,90.41928582143",
+            "id": 750,
+            "slug": "food-club-cafe-gulshan,-dhaka-vunok"
+          },
+          "description": "20% discounts all items",
+          "created_at": "2020-12-09T11:10:07.531432+00:00",
+          "expired_at": "2020-12-10T11:10:07.530185",
+          "id": 247
+        }
+      ]
+    },
+    {
+      "cover_photo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/318ebdeedd09-1.png",
+      "address": "574-575,road-16,Tilpapara,Khilgaon,Dhaka",
+      "gender": "male",
+      "order_count": 0,
+      "following_count": 0,
+      "last_name": "House",
+      "profile_pic_url": null,
+      "first_name": "Kebab",
+      "follower_count": 0,
+      "email": "kebabhouse1985@gmail.com",
+      "points": 0.0,
+      "stories": [
+        {
+          "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/cd3195961e56-image.jpg",
+          "restaurant_details": {
+            "address": "574-575 Tilpapara Road, Khilgoan (HarVanga Mor) Road-16",
+            "name": "Kebab House, Khilgoan",
+            "logo": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/1fe9b3011d08-resturant-logo.jpeg",
+            "location": "23.7461834,90.4280889",
+            "id": 204,
+            "slug": "evaly-food-kebab-house-khilgaon-dhaka"
+          },
+          "description": "Best chicken tandoori in town",
+          "created_at": "2020-12-09T14:30:25.479352+00:00",
+          "expired_at": "2020-12-10T14:30:25.477860",
+          "id": 251
+        }
+      ]
+    }
+  ]
